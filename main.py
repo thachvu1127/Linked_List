@@ -163,12 +163,7 @@ class Queues:
 
 
 
-# queue = Queues()
-# queue.enqueue('Phuong')
-# queue.enqueue('Donna')
-# queue.dequeue()
-# queue.enqueue('pHUONG')
-# queue.display()
+
 
 
 
